@@ -5,7 +5,7 @@
 }
 
 body {
-	background-color: #296caa;
+	background-color: #296ca8;
 	color: #fff;
 	font-family: 'Roboto', sans-serif;
 	display: flex;
@@ -24,13 +24,14 @@ h1 {
 
 .filter-container {
 	margin-top: 20px;
-	width: 80vh;
+	width: 80vw;
 	max-width: 800px;
 }
 
 .filter {
 	width: 100%;
 	padding: 12px;
+	font-size: 16px;
 }
 
 .post {
@@ -41,7 +42,7 @@ h1 {
 	padding: 20px;
 	margin: 40px 0;
 	display: flex;
-	width: 80vh;
+	width: 80vw;
 	max-width: 800px;
 }
 
